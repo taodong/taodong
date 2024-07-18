@@ -11,12 +11,12 @@ I'm on the process of creating an Email forwarding service blocking any non-esse
 2. Your life will be easier without receiving most of marketing emails
 
 #### Repository
-1. [duotail-smtp-server](https://github.com/taodong/duotail-smtp-server)
+- [duotail-smtp-server](https://github.com/taodong/duotail-smtp-server)
 
 ### wedgeup.com
 [Wedgeup.com](www.wedgeup.com) is the website providing synthetic data generating service. It's main strength is able to create comprehensive structured data regardless of your data model platform. 
 
-**🌱 It currently supports MySQL and Salesforce out of box. Let me know if you have other need.**
+**🌱 It currently supports MySQL and Salesforce out of box. Let me know if you have other needs.**
 
 #### Repository
 **public**
