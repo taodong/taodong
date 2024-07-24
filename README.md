@@ -13,6 +13,7 @@ I'm on the process of creating an Email forwarding service blocking any non-esse
 #### Repository
 - [duotail-smtp-server](https://github.com/taodong/duotail-smtp-server)
 - [duotail-test-sender](https://github.com/taodong/duotail-test-sender)
+- [haraka-plugin-duotail] (https://github.com/taodong/hakara-plugin-duotail)
 
 ### wedgeup.com
 [Wedgeup.com](www.wedgeup.com) is the website providing synthetic data generating service. It's main strength is able to create comprehensive structured data regardless of your data model platform. 
