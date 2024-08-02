@@ -7,13 +7,15 @@ Welcome to my GitHub page.
 I'm on the process of creating an Email forwarding service blocking any non-essential emails
 
 #### Philosophy
-1. You won't miss any important thing in life by not reading emails from strangers
-2. Your life will be easier without receiving most of marketing emails
+1. We won't miss any important thing in life by not reading all emails from strangers
+2. Our life will be easier without receiving most of marketing emails
+3. We don't want expose our mail box to spam or phishing emails 
 
 #### Repository
 - [duotail-smtp-server](https://github.com/taodong/duotail-smtp-server)
 - [duotail-test-sender](https://github.com/taodong/duotail-test-sender)
 - [haraka-plugin-duotail](https://github.com/taodong/hakara-plugin-duotail)
+- [duotail-website](https://github.com/taodong/duotail-website)
 
 ### wedgeup.com
 [Wedgeup.com](www.wedgeup.com) is the website providing synthetic data generating service. It's main strength is able to create comprehensive structured data regardless of your data model platform. 
