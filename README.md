@@ -4,7 +4,7 @@ Welcome to my GitHub page.
 ## Projects
 
 ### Duotail 🚜
-I'm on the process of creating an Email forwarding service blocking any non-essential emails
+I'm on the process of creating an Email alias service blocking any non-essential emails
 
 #### Philosophy
 1. We won't miss any important thing in life by not reading all emails from strangers
@@ -12,10 +12,16 @@ I'm on the process of creating an Email forwarding service blocking any non-esse
 3. We don't want expose our mail box to spam or phishing emails 
 
 #### Repository
+**public**
+
 - [duotail-smtp-server](https://github.com/taodong/duotail-smtp-server)
 - [duotail-test-sender](https://github.com/taodong/duotail-test-sender)
 - [haraka-plugin-duotail](https://github.com/taodong/hakara-plugin-duotail)
 - [duotail-website](https://github.com/taodong/duotail-website)
+
+**private**
+- [duotail-infrastructure](https://github.com/taodong/duotail-infra)
+  
 
 ### wedgeup.com
 [Wedgeup.com](www.wedgeup.com) is the website providing synthetic data generating service. It's main strength is able to create comprehensive structured data regardless of your data model platform. 
