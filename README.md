@@ -4,7 +4,7 @@ Welcome to my GitHub page.
 ## Projects
 
 ### Duotail 🚜
-I'm in the process of creating solution to address personal email security issues.
+I'm in the process of creating a solution to address personal email security issues.
 
 #### Philosophy
 1. We should have full control of our incoming emails.
