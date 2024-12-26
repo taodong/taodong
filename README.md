@@ -4,17 +4,17 @@ Welcome to my GitHub page.
 ## Projects
 
 ### Duotail 🚜
-I'm on the process of creating an Email alias service blocking any non-essential emails
+I'm in the process of creating solution to address personal email security issues.
 
 #### Philosophy
-1. We won't miss any important thing in life by not reading all emails from strangers
-2. Our life will be easier without receiving most of marketing emails
-3. We don't want expose our mail box to spam or phishing emails 
+1. We should have full control of our incoming emails.
+2. We sholdn't have to keep high alert on spam or phishing emails all the time.
+3. We shouldn't worry about our email address being sold and passed along.
 
 #### Repository
 **public**
 
-- [duotail-smtp-server](https://github.com/taodong/duotail-smtp-server)
+- [dkim-signer](https://github.com/taodong/mail-dkim-signer)
 - [duotail-test-sender](https://github.com/taodong/duotail-test-sender)
 - [haraka-plugin-duotail](https://github.com/taodong/hakara-plugin-duotail)
 - [duotail-website](https://github.com/taodong/duotail-website)
