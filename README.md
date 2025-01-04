@@ -31,7 +31,7 @@ I'm in the process of creating a solution to address personal email security iss
 #### Repository
 **public**
 
-- [data-conjuere](https://github.com/taodong/data-conjurer)
+- [data-conjurer](https://github.com/taodong/data-conjurer)
 - [helps4data](https://github.com/taodong/helps4data)
 - [wedge-support-center](https://github.com/taodong/wedge-support-center)
 - [wedgeup-main-page](https://github.com/taodong/wedgeup-main-page)
