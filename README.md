@@ -21,6 +21,7 @@ I'm in the process of creating a solution to address personal email security iss
 
 **private**
 - [duotail-infrastructure](https://github.com/taodong/duotail-infra)
+- [duotail-message-collector](https://github.com/taodong/duotail-message-collector)
   
 
 ### wedgeup.com
