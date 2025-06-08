@@ -25,7 +25,7 @@ I'm in the process of creating a solution to address personal email security iss
   
 
 ### wedgeup.com
-[Wedgeup.com](www.wedgeup.com) is the website providing synthetic data generating service. It's main strength is able to create comprehensive structured data regardless of your data model platform. 
+[Wedgeup.com](https://www.wedgeup.com) is the website providing synthetic data generating service. It's main strength is able to create comprehensive structured data regardless of your data model platform. 
 
 **🌱 It currently supports MySQL and Salesforce out of box. Let me know if you have other needs.**
 
